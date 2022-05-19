@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85e7116b.css",
+    "main.js": "/static/js/main.29230cee.js",
+    "static/media/kanin.jpg": "/static/media/kanin.60cf2b6edf67f7bec9cb.jpg",
+    "index.html": "/index.html",
+    "main.85e7116b.css.map": "/static/css/main.85e7116b.css.map",
+    "main.29230cee.js.map": "/static/js/main.29230cee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e7116b.css",
+    "static/js/main.29230cee.js"
+  ]
+}
